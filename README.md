@@ -46,17 +46,7 @@ I'm a passionate computer engineering student building expertise at the intersec
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfactor-ez&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfactor-ez&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfactor-ez&theme=radical&hide_border=true)
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🤖 AI/ML Projects
 
@@ -71,24 +61,7 @@ I'm a passionate computer engineering student building expertise at the intersec
 - Advanced cryptographic algorithms and security implementations
 - **Tech Stack**: Python, Cryptography libraries
 
-### 🌐 Web Development
-
-#### [Web Dev Portfolio](https://github.com/nfactor-ez/web-dev)
-**Full-Stack Web Applications**
-- Modern web development projects and experiments
-- **Tech Stack**: HTML, CSS, JavaScript, React
-
-#### [Frontend Task](https://github.com/nfactor-ez/frontend-task)
-**Internship Frontend Challenge**
-- Responsive web application development
-- **Tech Stack**: JavaScript, HTML, CSS
-
-#### [Mongo Sync](https://github.com/nfactor-ez/mongo-sync)
-**Database Synchronization Tool**
-- MongoDB data synchronization utilities
-- **Tech Stack**: JavaScript, Node.js, MongoDB
-
-### 🎯 Recent Projects
+###  Recent Projects
 
 #### [Crypto Agent](https://github.com/nfactor-ez/Crypto-agent)
 **Cryptocurrency Trading Agent**
@@ -113,7 +86,7 @@ I'm a passionate computer engineering student building expertise at the intersec
 - **Degree**: B.Tech Computer & Communication Engineering
 - **Year**: 2nd Year
 - **GPA**: 8.57/10
-- **Expected Graduation**: 2027
+- **Expected Graduation**: 2028
 
 ---
 
@@ -129,6 +102,7 @@ I'm a passionate computer engineering student building expertise at the intersec
 - 🏆 **Pull Shark** - Active GitHub contributor
 - 📊 **139+ contributions** in the last year
 - 🎯 Active in multiple technical domains
+- 🌐 **MES2026 Website Developer** - Contributed to E-Cell MIT's MES2026.ecellmit.in website development
 
 ---
 
@@ -138,7 +112,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 
 ### 📧 Contact
 - **GitHub**: [@nfactor-ez](https://github.com/nfactor-ez)
-- **LinkedIn**: [Let's connect!](https://linkedin.com/in/sarthak-chaddha)
+- **LinkedIn**: [Sarthak Chaddha](https://www.linkedin.com/in/sarthak-chaddha-8953b5289/)
 
 ### 💡 Fun Fact
 I'm not just learning to code—I'm building the future of intelligent systems! 🚀
